@@ -4,8 +4,9 @@ In this repository, we will embark on a journey through the database design and 
 
 ## Resources
 
-The two main resources will be these books:
-- [Practical Web Database Design](https://link.springer.com/book/10.1007/978-1-4302-5377-8)
-- [Beginning Database Design](https://link.springer.com/book/10.1007/978-1-4302-4210-9)
+The main resources will be:
+- [Practical Web Database Design - Book](https://link.springer.com/book/10.1007/978-1-4302-5377-8)
+- [Beginning Database Design - Book](https://link.springer.com/book/10.1007/978-1-4302-4210-9)
+- [Amr Elhelw - Youtube Channel](https://www.youtube.com/@TechVault_)
 
 Additional resources will include articles, videos, and more. The resource list will be updated with each new material studied.
